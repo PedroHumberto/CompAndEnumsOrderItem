@@ -1,6 +1,7 @@
 ﻿using System;
 
 
+
 namespace CompAndEnumsOrder.Entities
 {
     class Client
